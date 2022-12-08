@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding="UTF-8"?>
+    <conteudo>
+        <!-- Sobre Nós -->      
+            <titulosobrenos>
+                Sobre nós
+            </titulosobrenos>
+            <textosobrenos>
+                Somos a equipe Owners. Estamos no mercado há quase 1 ano e nosso lema é atuar sempre com exelência e profissionalismo. Para isso contamos com uma equipe de 4 profissionais. Temos o objetivo melhorar a vida de pessoas em situação de vulnerabilidade, através de projetos que facilitam a entrada desses grupos no mercado de trabalho.
+            </textosobrenos>
+
+            <tobjetivo1>
+                Objetivo Geral
+            </tobjetivo1>
+            <corpoobjetivo1>
+                Facilitar o gerenciamento de dados na assistência a pessoas em situação de vulnerabilidade.
+            </corpoobjetivo1>
+
+            <tobjetivo2>
+                Projeto Web
+            </tobjetivo2>
+            <corpoobjetivo2>
+                Informar sobre programas/cursos gratuitos e com bolsas para auxilio da empregabilidade além do banco de curriculos.
+            </corpoobjetivo2>
+
+            <tobjetivo3>
+                Projeto Mobile
+            </tobjetivo3>
+            <corpoobjetivo3>
+                O aplicativo foi desenvolvido para o auxílio na notificação de empregos a fim de facilitar o encontro do trabalho desejado.
+            </corpoobjetivo3>
+        <!-- Sobre Nós --> 
+
+        <!-- Desemprego -->
+            <titulodesemp>
+                Desemprego
+            </titulodesemp>
+            <textodesemp>
+                Nos dias atuais o desemprego é muito comum, no Brasil. A crise econômica é um dos principais motivos. Nosso projeto além de te ajudar a achar um trabalho disponível na sua cidade também vai fazer seu próprio currículo online. Ao se cadastrar, é possível preencher um currículo que poderá ser posteriormente enviado às vagas desejadas. É possível ainda optar por receber notificações via e-mail, ou aplicativo, avisando sobre determinadas vagas.
+            </textodesemp>
+
+            <tdesemp1>
+                Empregabilidade em  Registro (Vale do Ribeira)
+            </tdesemp1>
+
+            <corpodesemp1>
+                A proporção de pessoas ocupadas em relação à população total é de 25.1%
+            </corpodesemp1>
+
+            <tdesemp2>
+                Taxa de escolarização em Registro
+            </tdesemp2>
+
+            <corpodesemp2>
+                A taxa de escolarização da cidade em relação à poulação total é de 97,3%
+            </corpodesemp2>
+
+            <tdesemp3>
+                Contratações no Vale do Ribeira
+            </tdesemp3>
+
+            <corpodesemp3>
+                Em 2020, a Região do Vale do Ribeira registrou 41.636 empregos formais.
+            </corpodesemp3>
+        <!-- Desemprego -->
+
+        <!-- Nossos Projetos -->
+            <tituloprojeto>
+                Nossos projetos
+            </tituloprojeto>
+
+            <tituloweb>
+                Projeto Web
+            </tituloweb>
+
+            <projetoweb>
+                Junto com a prefeitura (CRAS) de Registro que nos propôs desenvolver um banco de currículo afim de automatizar o cadastramento de pessoas em vulnerabilidade para conseguir empregos na região e melhores condições para essas pessoas, com isso nossa equipe se aprofundou mais e quis também trazer mais informações desses grupos em nosso site para que haja mais apoio da sociedade para ajudá-los.
+            </projetoweb>
+
+
+            <tituloapp>
+                Projeto Mobile
+            </tituloapp>
+
+            <projetoapp>
+                O aplicativo AGEH foi desenvolvido para o auxílio de busca de empregos a fim de facilitar o encontro do trabalho desejado, e pode ser baixado e utilizado a todas as pessoas que se encontram em estado de vulnerabilidade.
+            </projetoapp>
+
+            <projetoapp2>
+                Para o acesso do aplicativo, a pessoa irá ao CRAS e ao preencher a fixa de desemprego através do site ela receberá um Login e a senha poderá ser feita pela pessoa quando acessá-lo. Caso a pessoa esteja em um estado de vulnerabilidade mas não vai até o CRAS é possível fazer o seu cadastro no aplicativo também.
+            </projetoapp2>
+        <!-- Nossos Projetos -->
+
+        <!-- Nossos Clientes -->
+            <titulocliente>
+                Nossos Clientes
+            </titulocliente>
+        <!-- Nossos Clientes -->
+
+        <!-- Equipe -->
+            <tituloequipe>
+                Equipe
+            </tituloequipe>
+
+            <tituloana>
+                Ana Clara Gomes
+            </tituloana>
+
+            <titulogabs>
+                Gabriella Teles
+            </titulogabs>
+
+            <tituloeduardo>
+                Eduardo Faria
+            </tituloeduardo>
+
+            <titulohagata>
+                Hagata Tobara
+            </titulohagata>
+
+            <desenvolvedora>
+                Desenvolvedora Web
+            </desenvolvedora>
+
+            <desenvolvedor>
+                Desenvolvedor Web
+            </desenvolvedor>
+        <!-- Equipe -->
+
+
+
+
+        <!-- Nossos Projetos -->
+        <!-- Nossos Projetos -->
+
+        
+        <!-- Blog -->
+                <mensagem cod="0">
+                    <titulo>Economia e Mercado de Trabalho</titulo>
+                    <texto>O Vale do Ribeira conta com variadas riquezas que podem ser alavancadas para o desenvolvimento econômico da região. A economia local tem participação relevante da agropecuária e é marcada pela presença majoritária de pequenos negócios.</texto>
+                    <imagem fonte="img/not/n1.jpeg">Logo Bootstrap</imagem>
+                    <texto6>
+                        O programa do Executivo paulista para transformar o Vale do Ribeira em modelo de desenvolvimento foi lançado em 17 de outubro de 2019, no Dia Mundial da Erradicação da Pobreza, em parceria com prefeituras, comunidades quilombolas e organizações da sociedade civil. Denominado Vale do Futuro, ele é coordenado pela Secretaria de Desenvolvimento Regional (SDR) e, segundo o governo, tem como principais objetivos "alavancar a atividade econômica nos municípios da região; eliminar gargalos sociais de curto prazo; fomentar projetos de preservação ambiental e desenvolvimento sustentável; e realizar obras e projetos de melhoria da qualidade de vida na região".
+                        As ações do Vale do Futuro se dividem em quatro eixos -- emprego e renda, infraestrutura e sustentabilidade, qualidade de vida, e gestão e governança -- e, até o momento, se desdobram em 70 projetos, que incluem, por exemplo, entrega de creches, obras para melhoria nos sistemas de água e esgoto e a promulgação da nova lei do ICMS ambiental (17.348/2021). Esta elevou de 1% para 2% o percentual do ICMS repassado aos municípios, nas parcelas referentes ao meio ambiente, e, segundo Vinholi, é o "grande diferencial do programa e que vai ficar como um legado muito forte, vai mudar a realidade da região". Em dois anos, o Vale do Futuro soma R$ 1 bilhão em investimentos no Ribeira. 
+                    </texto6>
+                </mensagem>
+                <mensagem cod="1">
+                    <titulo>Bolsa Trabalho abre 120 vagas em Iguape</titulo>
+                    <texto>A Prefeitura de Iguape comunica a todos os interessados residentes em Iguape, a abertura de inscrições para participação no Programa Bolsa Trabalho, conforme Edital de Repactuação SDE/CPER nº 004/2022.</texto>
+                    <imagem fonte="img/not/n22.jpg">Logo Bootstrap</imagem>
+                    <texto6>
+                        A Prefeitura de Iguape comunica a todos os interessados residentes em Iguape, a abertura de inscrições para participação no Programa Bolsa Trabalho, conforme Edital de Repactuação SDE/CPER nº 004/2022.
+                        Para mais informações, os interessados podem buscar auxílio na Prefeitura de Iguape, localizada na Av. Adhemar de Barros, 1070 Porto do Ribeira, na Secretaria Adjunta de Planejamento, das 09h às 11h30.
+                    </texto6>
+                </mensagem>
+                <mensagem cod="2">
+                    <titulo>Iniciativas impulsionam desenvolvimento do Vale do Ribeira (SP)</titulo>
+                    <texto>"Vale do Ribeira é um local que tem uma peculiaridade muito grande: está inserido no maior remanescente de Mata Atlântica do Brasil; e o desafio agora é desenvolver, trazer tudo que as cidades têm, que a modernidade tem, para o Vale e, ao mesmo tempo, contemplar a preservação e o funcionamento do ecossistema ao redor dessas cidades".</texto>
+                    <imagem fonte="img/not/n3.jpg">Logo Bootstrap</imagem>
+                    <texto6>
+                        O Vale do Ribeira conta com variadas riquezas que podem ser alavancadas para o desenvolvimento econômico da região. A economia local tem participação relevante da agropecuária e é marcada pela presença majoritária de pequenos negócios.
+                        A região apresentou avanços até 2014 em alguns de seus indicadores econômicos e de mercado de trabalho, mas apontou queda acelerada nos anos de recessão (2015 e 2016). A seguir, serão apresentados os principais indicadores da economia e do mercado de trabalho no Vale.
+                    </texto6>
+                </mensagem>
+        <!-- Blog -->
+
+        <!-- Noticia -->
+        <titulonot>
+            Notícias
+        </titulonot>
+        <!-- Noticia -->
+            
+
+
+    </conteudo>

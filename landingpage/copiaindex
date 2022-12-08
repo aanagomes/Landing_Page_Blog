@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Owners</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+  <link href="img/logo2.png" rel="icon">
+  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  
+
+  <!--==========================
+    Intro Section
+  ============================-->
+  <section id="intro">
+    <div class="intro-container">
+      <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
+
+        <ol class="carousel-indicators"></ol>
+
+        <div class="carousel-inner" role="listbox">
+
+          <div class="carousel-item active" style="background-image: url('img/intro-carousel/11.jpg');">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2>Empregabilidade</h2>
+                <p>Aprimoramento pessoal e a competência técnica, essa é a nossa missão.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url('img/intro-carousel/12.jpeg');">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2>Gestão</h2>
+                <p>Trabalhamos com os recursos disponíveis para atingir seus objetivos.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url('img/intro-carousel/13.jpg');">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2>Agir</h2>
+                <p>É preciso para que as conquistas venham!</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+
+        <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon ion-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+
+      </div>
+    </div>
+  </section><!-- #intro -->
+
+
+<!--==========================
+    Header
+  ============================-->
+  <header id="header">
+    <div id="logo" class="pull-left">
+        <h1><a href="#intro" class="scrollto">Owners</a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>-->
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li><a href="#sobrenos">Sobre nós</a></li>
+          <li><a href="#desemprego">Desemprego</a></li>
+          <li><a href="#projetos">Projeto Web</a></li>
+          <li><a href="#projetoapp">Projeto Mobile</a></li>
+          <li><a href="#equipe">Equipe</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+  </header><!-- #header -->
+  
+
+  <main id="main">
+
+<!--sobrenos-->
+    <section id="sobrenos">
+      <div class="container">
+
+        <header class="section-header">
+          <h3>Sobre nós</h3>
+          <p>Somos a equipe <b>Owners</b>. Estamos no mercado há quase 1 ano e nosso lema é atuar sempre com exelência e profissionalismo. Para isso contamos com uma equipe de 4 profissionais. Temos o objetivo melhorar a vida de pessoas em situação de vulnerabilidade, através de projetos que facilitam a entrada desses grupos no mercado de trabalho.
+          </p>
+        </header>
+
+        <div class="row sobrenos-cols">
+
+          <div class="col-md-4 wow fadeInUp">
+            <div class="sobrenos-col">
+              <div class="img">
+                <img src="img/sobrenos-mission.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#desemprego">Objetivo Geral</a></h2>
+              <p>
+                Facilitar o gerenciamento de dados na assistência a pessoas em situação de vulnerabilidade.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="sobrenos-col">
+              <div class="img">
+                <img src="img/sobrenos-plan.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-list-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Projeto Web</a></h2>
+              <p>
+                Informar sobre programas/cursos gratuitos e com bolsas para auxilio da empregabilidade além do banco de curriculos.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="sobrenos-col">
+              <div class="img">
+                <img src="img/sobrenos-vision.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-eye-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Projeto Mobile</a></h2>
+              <p>
+                O aplicativo foi desenvolvido para o auxílio na notificação de empregos a fim de facilitar o encontro do trabalho desejado.
+              </p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+<!-- #sobrenos -->
+
+
+<!--desemprego-->
+    <section id="desemprego">
+      <div class="container">
+
+        <header class="section-header wow fadeInUp">
+          <h3>Desemprego</h3>
+          <p>Nos dias atuais o desemprego é muito comum, no Brasil. A crise econômica é um dos principais motivos. Nosso projeto além de te ajudar a achar um trabalho disponível na sua cidade também vai fazer seu próprio currículo online. Ao se cadastrar, é possível preencher um currículo que poderá ser posteriormente enviado às vagas desejadas. É possível ainda optar por receber notificações via e-mail, ou aplicativo, avisando sobre determinadas vagas.</p>
+        </header>
+
+        <div class="row" align="center">
+
+
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
+            <h4 class="title"><a href="">Empregabilidade <br> em Registro-SP</a></h4>
+            <p class="description">A proporção de pessoas ocupadas em relação à população total é de 25.1%</p>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-barcode-outline"></i></div>
+            <h4 class="title"><a href="">Taxa de escolarização <br> em Registro-SP</a></h4>
+            <p class="description">A taxa de escolarização da cidade em relação à poulação total é de 97,3%</p>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-people-outline"></i></div>
+            <h4 class="title"><a href="">Contratações <br> no Vale do Ribeira</a></h4>
+            <p class="description">Em 2020, a Região do Vale do Ribeira registrou 41.636 empregos formais.</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+<!-- #desemprego -->
+
+<!-- #projetos -->
+    <section id="projetos"  class="section-bg" >
+      <div class="container">
+
+        <header class="section-header">
+          <h3 class="section-title">Nossos Projetos</h3>
+        </header>
+       
+          <div class="row">
+            <div class="col-6">
+              <p class="textoweb1"> Projeto Web </h1>
+              <p class='textoweb'>Junto com a prefeitura (CRAS) de Registro que nos propôs desenvolver um banco de currículo afim de automatizar o cadastramento de pessoas em vulnerabilidade para conseguir empregos na região e melhores condições para essas pessoas, com isso nossa equipe se aprofundou mais e quis também trazer mais informações desses grupos em nosso site para que haja mais apoio da sociedade para ajudá-los.</p>
+            </div>
+            <div class="col-6"><br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/web/web5.png" width="500px">
+            </div>
+          </div>
+        <br><br>
+
+          <div class="row" id="projetoapp">
+            <div class="col-6">
+              <p class="textoapp1"> Projeto Mobile </p>
+              <p class='textoapp'>O aplicativo AGEH foi desenvolvido para o auxílio de busca de empregos a fim de facilitar o encontro do trabalho desejado, e pode ser baixado e utilizado a todas as pessoas que se encontram em estado de vulnerabilidade.</p>
+            </div>
+            <div class="col-6">
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/app/mobile3.png" width="200px">
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/app/mobile4.png" width="200px">
+            </div>
+            
+          </div>       
+
+      </div>
+    </section>
+<!-- #projetos -->
+
+<!-- #clientes -->
+    <section id="clients" class="wow fadeInUp">
+      <div class="container">
+        <header class="section-header">
+          <h4>Our Clients</h4>
+        </header>
+
+        <div class="owl-carousel clients-carousel">
+          &nbsp;&nbsp;<img src="img/clients/pref.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;<img src="img/clients/etec.png" alt="">&nbsp;
+          &nbsp;&nbsp;<img src="img/clients/cras.png" alt="">&nbsp;
+        </div>
+
+      </div>
+    </section>
+<!-- #clientes -->
+
+
+<!-- #team -->
+    <section id="equipe">
+      <div class="container">
+        <div class="section-header wow fadeInUp">
+          <h3>Team</h3>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp">
+            <div class="member">
+              <img src="img/ana.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Ana Clara Gomes</h4>
+                  <span>Desenvolvedora Web</span>
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/ana-clara-gomes-282015151/"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="member">
+              <img src="img/gabs.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Gabriella Teles</h4>
+                  <span>Desenvolvedora Web</span>
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/gabiteles/"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="member">
+              <img src="img/eduardo.jfif" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Eduardo Faria</h4>
+                  <span>Desenvolvedor Web</span>
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/eduardohnf/"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/hagata.jpeg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Hagata Tobara</h4>
+                  <span>Desenvolvedora Web</span>
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/tobarahs/"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+<!-- #team -->
+
+  </main>
+
+<!--Footer-->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6 footer-info">
+            <h3>Owners</h3>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-links">
+            <h4>Links</h4>
+            <ul>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#sobrenos">Sobre Nós</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#desemprego">Desemprego</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#projetos">Projetos</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-contact">
+            <h4>Contato</h4>
+            <p>
+              <strong>Instagram:</strong><a href="https://www.instagram.com/owners.of/"> @owners.of</a><br>
+            </p>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>OWNERS</strong>. All Rights Reserved
+      </div>
+    </div>
+  </footer>
+<!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/counterup/counterup.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+  <!-- Javascript Principal -->
+  <script src="js/main.js"></script>
+
+</body>
+</html>
